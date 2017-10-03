@@ -1,0 +1,65 @@
+        body {
+            text-align: center;
+            width: 90%;
+            margin-left: 5%;
+        }
+
+        .nav-menu {
+            display: inline;
+            list-style: none;
+            font-weight: bold;
+        }
+
+        .nav-menu > li {
+            display: inline;
+            margin: 0 10px 0 10px;
+        }
+
+        li {
+            text-align: left;
+            display: inline;
+        }
+
+        form {
+            padding-bottom: 30px;
+        }
+
+        form > label {
+            float: left;
+            margin: 10px;
+            padding-right: 10px;
+        }
+
+        form > input {
+            display: block;
+            margin: 10px;
+            clear: both;
+        }
+
+        .panel {
+            margin: 0 auto;
+            text-align: center;
+            background-color: aquamarine;
+            border-color: blue;
+            width: 35%;
+            padding: 40px;
+        }
+
+        #main_page > li {
+            display: block;
+            list-style: decimal;
+        }
+
+        #main_page > li > a {
+            margin-left: 10px;
+            display: inline-block;
+        }
+
+        .submit {
+            float: left;
+            margin-left: 10px;
+        }
+
+        h1 {
+            font-weight: bold;
+        }
